@@ -1,5 +1,3 @@
-package collegeShit.Java;
-
 import java.util.Scanner;
 
 public class Sorter {
@@ -40,3 +38,4 @@ public class Sorter {
         }
     }
 }
+
